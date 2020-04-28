@@ -10,10 +10,7 @@ const Card = ({ name, url, id }) => {
         height="150"
         src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${PokeIndex}.png`}
       />
-      <div>
-        <h2 className="ttc">{name}</h2>
-        <p>#{PokeIndex}</p>
-      </div>
+
     </div>
   );
 };

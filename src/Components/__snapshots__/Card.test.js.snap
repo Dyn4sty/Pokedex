@@ -1,3 +1,14 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders the Card Component 1`] = `ShallowWrapper {}`;
+exports[`renders the Card Component 1`] = `
+<div
+  className="bg-light-green dib br3 pa3 ma2 grow bw2 shadow-5"
+>
+  <img
+    alt="pokemon"
+    height="150"
+    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/pokemon.png"
+    width="150"
+  />
+</div>
+`;
