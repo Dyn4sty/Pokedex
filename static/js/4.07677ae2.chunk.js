@@ -1,2 +1,0 @@
-(this.webpackJsonprobofriends=this.webpackJsonprobofriends||[]).push([[4],{32:function(e,n,a){"use strict";a.r(n);var t=a(0),r=a.n(t),l=Object(t.lazy)((function(){return a.e(3).then(a.bind(null,31))}));n.default=r.a.memo((function(e){var n=e.Pokemons;return r.a.createElement("div",null,n?r.a.createElement("div",{className:"row"},n.map((function(e){return r.a.createElement(l,{key:e.name,name:e.name,url:e.url})}))):r.a.createElement("h1",null,"Loading"))}))}}]);
-//# sourceMappingURL=4.07677ae2.chunk.js.map
