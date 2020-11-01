@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.81e3f449.chunk.css",
-    "main.js": "/static/js/main.e82e91cd.chunk.js",
-    "main.js.map": "/static/js/main.e82e91cd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.40b46f53.js",
-    "runtime-main.js.map": "/static/js/runtime-main.40b46f53.js.map",
-    "static/css/2.d3e2aebe.chunk.css": "/static/css/2.d3e2aebe.chunk.css",
-    "static/js/2.64e3c7f4.chunk.js": "/static/js/2.64e3c7f4.chunk.js",
-    "static/js/2.64e3c7f4.chunk.js.map": "/static/js/2.64e3c7f4.chunk.js.map",
-    "static/js/3.ece3a2b3.chunk.js": "/static/js/3.ece3a2b3.chunk.js",
-    "static/js/3.ece3a2b3.chunk.js.map": "/static/js/3.ece3a2b3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.d3e2aebe.chunk.css.map": "/static/css/2.d3e2aebe.chunk.css.map",
-    "static/css/main.81e3f449.chunk.css.map": "/static/css/main.81e3f449.chunk.css.map",
-    "static/js/2.64e3c7f4.chunk.js.LICENSE.txt": "/static/js/2.64e3c7f4.chunk.js.LICENSE.txt",
-    "static/media/app.css": "/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/Pokedex/static/css/main.a33a59e4.chunk.css",
+    "main.js": "/Pokedex/static/js/main.17ebc4df.chunk.js",
+    "main.js.map": "/Pokedex/static/js/main.17ebc4df.chunk.js.map",
+    "runtime-main.js": "/Pokedex/static/js/runtime-main.27c9008f.js",
+    "runtime-main.js.map": "/Pokedex/static/js/runtime-main.27c9008f.js.map",
+    "static/css/2.d3e2aebe.chunk.css": "/Pokedex/static/css/2.d3e2aebe.chunk.css",
+    "static/js/2.407a50c9.chunk.js": "/Pokedex/static/js/2.407a50c9.chunk.js",
+    "static/js/2.407a50c9.chunk.js.map": "/Pokedex/static/js/2.407a50c9.chunk.js.map",
+    "static/js/3.ece3a2b3.chunk.js": "/Pokedex/static/js/3.ece3a2b3.chunk.js",
+    "static/js/3.ece3a2b3.chunk.js.map": "/Pokedex/static/js/3.ece3a2b3.chunk.js.map",
+    "index.html": "/Pokedex/index.html",
+    "static/css/2.d3e2aebe.chunk.css.map": "/Pokedex/static/css/2.d3e2aebe.chunk.css.map",
+    "static/css/main.a33a59e4.chunk.css.map": "/Pokedex/static/css/main.a33a59e4.chunk.css.map",
+    "static/js/2.407a50c9.chunk.js.LICENSE.txt": "/Pokedex/static/js/2.407a50c9.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/Pokedex/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.40b46f53.js",
+    "static/js/runtime-main.27c9008f.js",
     "static/css/2.d3e2aebe.chunk.css",
-    "static/js/2.64e3c7f4.chunk.js",
-    "static/css/main.81e3f449.chunk.css",
-    "static/js/main.e82e91cd.chunk.js"
+    "static/js/2.407a50c9.chunk.js",
+    "static/css/main.a33a59e4.chunk.css",
+    "static/js/main.17ebc4df.chunk.js"
   ]
 }
