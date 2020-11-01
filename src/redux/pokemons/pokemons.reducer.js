@@ -4,6 +4,7 @@ const INITAL_STATE = {
   Pokemons: [],
   searchfield: "",
   error: null,
+  loading: true,
 };
 
 const pokemonsReducer = (state = INITAL_STATE, action) => {
@@ -17,12 +18,14 @@ const pokemonsReducer = (state = INITAL_STATE, action) => {
       return {
         ...state,
         Pokemons: action.payload,
+        loading: false,
       };
     case PokemonsActionTypes.FETCH_POKEMONS_FAILURE:
-        return {
-            ...state,
-            error: action.payload
-        }
+      return {
+        ...state,
+        error: action.payload,
+        loading: false,
+      };
     default:
       return state;
   }
