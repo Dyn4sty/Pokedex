@@ -3,7 +3,7 @@ import React from "react";
 interface CardStatelessProps {
   name: string;
   url: string;
-};
+}
 
 const Card: React.FunctionComponent<CardStatelessProps> = ({ name, url }) => {
   const PokeIndex: string = url.split("/")[url.split("/").length - 2];

@@ -1,9 +1,10 @@
 import React from "react";
+
 interface ISearchBoxProps {
-  searchChange: (React.FormEventHandler<HTMLInputElement>);
+  searchChange: React.FormEventHandler<HTMLInputElement>;
 }
 
-const SearchBox  = ({ searchChange }: ISearchBoxProps)  => {
+const SearchBox = ({ searchChange }: ISearchBoxProps) => {
   return (
     <div className="pa2">
       <input
